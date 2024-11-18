@@ -1,0 +1,6 @@
+# Ignore credentials file
+credentials.txt
+
+# Ignore output and json files
+/out/
+*.json
